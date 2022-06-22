@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jarek585
 - 👀 I’m interested in ... I'm new here so I'm interested in everything;)
-- 🌱 I’m currently learning ... Python & SQL
+- 🌱 I’m currently learning ... Python & SQL, GIT
+- 🚀 I'd like to learn ... HTML & CSS, JavaScript
 
 <!---
 jarek585/jarek585 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
